@@ -1,4 +1,4 @@
-package org.yourcompany.yourproject;
+package org.example;
 
     public class Bibliotecario extends Usuario {
         
