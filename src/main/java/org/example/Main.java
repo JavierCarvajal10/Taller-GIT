@@ -4,7 +4,8 @@ public class Main {
 
     public static void main(String[] args) {
 
-        org.yourcompany.yourproject.Biblioteca biblioteca = new org.yourcompany.yourproject.Biblioteca();
+
+        Biblioteca biblioteca = new Biblioteca();
 
         Bibliotecario bibliotecario =
                 new Bibliotecario("1", "Pepe", "pepe@gmail.com", "mañana");
